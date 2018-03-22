@@ -1,3 +1,4 @@
+# construct probabilities based on random walk
 Y = 10     % initial point
 sim = []   % zero vector
 i=0;
