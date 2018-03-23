@@ -1,2 +1,2 @@
 # Stochastic-Process-Simulation
-simple simulations include Markov Chain, Poisson Process etc.
+Fundamental simulations include Markov Chain, Poisson Process etc.
