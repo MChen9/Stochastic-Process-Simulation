@@ -6,7 +6,7 @@ m = 0;
     while m <15;
         i = i+1;
         t = t+exp(1);
-        m = (t*3)^(1/3);
+        m = (t*3)^(1/3); % inverse for lambda(t)=t^2
         vec = [vec,m];
     end
     
